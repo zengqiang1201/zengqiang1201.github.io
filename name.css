@@ -12,8 +12,8 @@
 }
 #heard{
 
-    width: 1028px;
-    height:1028px;
+    width: 1000px;
+    height:1000px;
     background-color: #2ab2b7;
     margin: 0 auto;
     border-radius: 40px;
@@ -39,7 +39,7 @@ p{text-align: left;
     float: right;
     width: 300px;
     height: 400px;
-    background-image: url("背景.png");
+    background-image: url("../xiangmu/背景.png");
     border-radius: 40px;
     border: 3px solid aquamarine;
 }
@@ -58,7 +58,7 @@ p{text-align: left;
 #dd{
     margin: 0 auto;
     background-color: #56aea7;
-    height: 30px;
+    height: 35px;
     width:100px;
     font-size: 10px;
     border-radius:8px;
@@ -66,10 +66,10 @@ p{text-align: left;
 
 }
 
-#li{margin: 0 -190px;
-    height: 340px;
+#li{margin: 5px -190px;
+    height: 330px;
     width: 480px;
-    background-color: #69afa3;
+    background-color: #69aea2;
     border-radius: 40px;
 
 
@@ -91,4 +91,7 @@ p{text-align: left;
     text-align: center;
 }
 #zz,ul,li{text-align: left;
+
+}
+
 
