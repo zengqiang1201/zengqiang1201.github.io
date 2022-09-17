@@ -3,7 +3,7 @@
     padding: 0;
 }
 #xx{  margin: 30px auto;
-      height: 50px;
+      height: 45px;
       width: 160px;
       background-color: #56afa8;
       color: #37ff00;
@@ -13,7 +13,7 @@
 #heard{
 
     width: 1000px;
-    height:1000px;
+    height:1030px;
     background-color: #2ab2b7;
     margin: 0 auto;
     border-radius: 40px;
@@ -79,9 +79,9 @@ p{text-align: left;
     color: #b72a69;
     font-family: 隶书;
 }
-#zz{margin: -40px 600px;
+#zz{margin: -49px 575px;
     background: #69aea2;
-    height:360px;
+    height:380px;
     width: 300px;
     font-family: 隶书;
     border-radius: 20px;
@@ -93,5 +93,6 @@ p{text-align: left;
 #zz,ul,li{text-align: left;
 
 }
+
 
 
