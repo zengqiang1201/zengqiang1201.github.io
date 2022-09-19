@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#BG{
+    margin: 0 auto;
+    height: 1000px;
+    width: 1028px;
+    background-image: url("test2.jpg");
+}
+.clear{clear: both;}
+
+#heard2{
+    font-size: 50px;
+    color: #c19961;
+    float: left;
+    margin: 60px 170px;
+    text-align: center;
+
+    height: 60px;
+    width: 400px;
+}
+
+form{
+    margin:-120px 200px;
+    height: 550px;
+    width: 550px;
+
+}
+p{
+    margin-top:20px;
+}
+.btn input{
+    margin-left: 112px;
+    height: 30px;
+    width: 100px;
+}
+#li{
+
+    height: 150px;
+    width: 530px;
+    margin-top: 120px;
+    margin-left: 220px;
+}
